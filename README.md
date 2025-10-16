@@ -24,7 +24,7 @@ This project implements various video classification approaches for recognizing 
 
 ```
 DLCV2/
-├── datasets.py          # Dataset classes for frames and videos
+├── datasets.py         # Dataset classes for frames and videos
 ├── models.py           # Model architectures
 ├── train.py            # Training script
 ├── utils.py            # Utility functions
