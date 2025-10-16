@@ -127,6 +127,7 @@ class LateFusionCNN(nn.Module):
         return output
 
 
+
 class EarlyFusionCNN(nn.Module):
     """
     Early fusion model: Concatenate all frames in the channel dimension,
